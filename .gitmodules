@@ -65,9 +65,6 @@
 [submodule "libraries/drivers/ws2801"]
 	path = libraries/drivers/ws2801
 	url = https://github.com/adafruit/Adafruit_CircuitPython_WS2801.git
-[submodule "libraries/drivers/epd"]
-	path = libraries/drivers/epd
-	url = https://github.com/adafruit/Adafruit_CircuitPython_EPD.git
 [submodule "libraries/helpers/led-animation"]
 	path = libraries/helpers/led-animation
 	url = https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git
@@ -185,9 +182,6 @@
 [submodule "libraries/helpers/oauth_2"]
 	path = libraries/helpers/oauth_2
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OAuth2.git
-[submodule "libraries/drivers/sht4x"]
-	path = libraries/drivers/sht4x
-	url = https://github.com/adafruit/Adafruit_CircuitPython_SHT4x.git
 [submodule "libraries/helpers/datetime"]
 	path = libraries/helpers/datetime
 	url = https://github.com/adafruit/Adafruit_CircuitPython_datetime.git
@@ -221,9 +215,6 @@
 [submodule "libraries/helpers/httpserver"]
 	path = libraries/helpers/httpserver
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HTTPServer.git
-[submodule "libraries/drivers/floppy"]
-	path = libraries/drivers/floppy
-	url = https://github.com/adafruit/Adafruit_CircuitPython_floppy.git
 [submodule "libraries/drivers/max1704x"]
 	path = libraries/drivers/max1704x
 	url = https://github.com/adafruit/Adafruit_CircuitPython_MAX1704x.git
