@@ -1049,3 +1049,9 @@
 [submodule "libraries/drivers/hdc1080"]
 	path = libraries/drivers/hdc1080
 	url = https://github.com/sensebox/CircuitPython_HDC1080
+[submodule "libraries/drivers/sds011"]
+	path = libraries/drivers/sds011
+	url = https://github.com/wallarug/CircuitPython_SDS011
+[submodule "libraries/drivers/sps30"]
+	path = libraries/drivers/sps30
+	url = https://github.com/kevinjwalters/Adafruit_CircuitPython_SPS30
