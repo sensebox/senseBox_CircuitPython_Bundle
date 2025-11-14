@@ -254,3 +254,6 @@
 [submodule "libraries/drivers/hdc1080"]
 	path = libraries/drivers/hdc1080
 	url = https://github.com/sensebox/CircuitPython_HDC1080
+[submodule "libraries/drivers/vl53lcxc"]
+	path = libraries/drivers/vl53lcxc
+	url = https://github.com/sensebox/CircuitPython_VL53LxCX
